@@ -1,0 +1,20 @@
+
+Generel science is an interesting subject which includes physics, biology and chemistry, foshil science.
+
+Science is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe.
+
+A computer is an electronic device that manipulates information, or data.
+
+cosA = (b2 + c2 - a2) / (2bc).
+
+sin(A+B) = sinAcosB + cosAsinB.
+
+sin(A-B) = sinAcosB - cosAsinB.
+
+Derivative Lows : c = 0,    
+                x = 1,  
+                ax = a, 
+                x^2 = 2x,   
+                sqrt(x) = (1/2)x^(-1/2).
+
+
